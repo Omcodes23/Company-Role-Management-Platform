@@ -649,7 +649,7 @@ const LearnRACI = () => {
       {/* Footer */}
       <footer className="learn-footer">
         <div className="container">
-          <p>&copy; {new Date().getFullYear()} Sharp & Tannan. All rights reserved.</p>
+         
         </div>
       </footer>
     </div>
