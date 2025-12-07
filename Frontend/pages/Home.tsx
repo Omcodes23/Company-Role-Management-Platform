@@ -418,7 +418,7 @@ const Home = () => {
           marginTop: 0,
         }}
       >
-        © {new Date().getFullYear()} Sharp &amp; Tannan. All rights reserved.
+       
       </footer>
     </div>
   );
